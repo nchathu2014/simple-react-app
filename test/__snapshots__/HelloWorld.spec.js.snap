@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render HelloWorld component 1`] = `
+<div
+  className="hello-world"
+>
+  <h1>
+    ReactJS Seed
+  </h1>
+  <p>
+    Welcome to ReactJS Seed
+  </p>
+</div>
+`;

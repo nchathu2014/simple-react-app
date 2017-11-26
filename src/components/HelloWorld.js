@@ -1,9 +1,10 @@
-import React from 'react'
+import 'raf/polyfill';
+import React from 'react';
 
-const HelloWorld = () => {
+const HelloWorld = ({title}) => {
     return (
         <div className='hello-world'>
-            <h1>ReactJS Seed</h1>
+            <h1>{title}</h1>
             <p>Welcome to ReactJS Seed</p>
         </div>
     )
