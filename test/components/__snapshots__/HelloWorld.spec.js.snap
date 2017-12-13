@@ -8,6 +8,9 @@ exports[`render HelloWorld component 1`] = `
     ReactJS Seed
   </h1>
   <p>
+    Hi new p
+  </p>
+  <p>
     Welcome to ReactJS Seed
   </p>
 </div>
